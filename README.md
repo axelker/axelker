@@ -1,6 +1,5 @@
  <h1> - 👋 Hi, I’m @axelker </h1>
 <p> <strong> - 👀 Etudiant en troisième année de licence informatique intéressé par les nouvelles technologies,l'IA et le code tout simplement.</strong> </p>
-<h3>  🌱 I’m currently learning 🌱  </h3>
 <h3>   💻  Google Play  💻  </h3>
 <a href ="https://play.google.com/store/apps/dev?id=5253345249921512271" target="_blank"> Mon Store</a> </br>
 <h3>  📫 Me contacter 📫 </h3>

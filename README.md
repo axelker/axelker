@@ -1,10 +1,13 @@
  <h1> - 👋 Hi, I’m @axelker </h1>
 <p> <strong> - 👀 Etudiant en troisième année de licence informatique intéressé par les nouvelles technologies,l'IA et le code tout simplement.</strong> </p>
-<h3> - 🌱 I’m currently learning  </h3>
-<h3> - 💞️ I’m looking to collaborate on  </h3>
-<h3> - 📫 Me contacter </h3>
-<a href ="https://www.linkedin.com/in/axel-kermezian-612623141/"> Linkedin </a>
-<a href ="mailto:axelker@outlook.fr"> Mail </a>
+<h3>  🌱 I’m currently learning 🌱  </h3>
+<h3>   💻  Google Play  💻  </h3>
+<a href ="https://play.google.com/store/apps/dev?id=5253345249921512271" target="_blank"> Mon Store</a> </br>
+<h3>  📫 Me contacter 📫 </h3>
+<ul>
+ <li> <em><a href ="https://www.linkedin.com/in/axel-kermezian-612623141/" target="_blank"> Linkedin </a></em> </li>
+ <li> <em><a href ="mailto:axelker@outlook.fr" target="_blank"> Mail </a> </em> </li>
+</ul>
 
 <!---
 axelker/axelker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

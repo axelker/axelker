@@ -1,10 +1,8 @@
  <h1> - 👋 Hi, I’m Axel </h1>
-<p> <strong> - 👀 Etudiant en Master réponsable sécurité des systèmes d'information et intéressé par les nouvelles technologies WEB,la sécurité et le code tout simplement.</strong> </p>
-<h3> 📖 Porfolio 📖 </h3>
-<a href="https://axelker.github.io/Portfolio/" target="_blank"> Mon Portfolio </a>
+<p> <strong> - 👀 Software developer.</strong> </p>
 <h3>   💻  Google Play  💻  </h3>
-<a href ="https://play.google.com/store/apps/dev?id=5253345249921512271" target="_blank"> Mon Store</a> </br>
-<h3>  📫 Me contacter 📫 </h3>
+<a href ="https://play.google.com/store/apps/dev?id=5253345249921512271" target="_blank"> My Store</a> </br>
+<h3>  📫 Contact 📫 </h3>
 <ul>
  <li> <em><a href ="https://www.linkedin.com/in/axel-kermezian-612623141/" target="_blank"> Linkedin </a></em> </li>
  <li> <em><a href ="mailto:axelker@outlook.fr" target="_blank"> Mail </a> </em> </li>

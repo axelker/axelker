@@ -4,7 +4,6 @@
 <a href ="https://play.google.com/store/apps/dev?id=5253345249921512271" target="_blank"> My Store</a> </br>
 <h3>  📫 Contact 📫 </h3>
 <ul>
- <li> <em><a href ="https://www.linkedin.com/in/axel-kermezian-612623141/" target="_blank"> Linkedin </a></em> </li>
  <li> <em><a href ="mailto:axelker@outlook.fr" target="_blank"> Mail </a> </em> </li>
 </ul>
 

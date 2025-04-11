@@ -1,8 +1,16 @@
- <h1> - 👋 Hi, I’m Axel </h1>
-<p> <strong> - 👀 Software developer.</strong> </p>
-<h3>   💻  Google Play  💻  </h3>
-<a href ="https://play.google.com/store/apps/dev?id=5253345249921512271" target="_blank"> My Store</a> </br>
-<h3>  📫 Contact 📫 </h3>
-<ul>
- <li> <em><a href ="mailto:axel.code.pro@outlook.com" target="_blank"> Mail </a> </em> </li>
-</ul>
+# 👋 Hi, I’m Axel
+
+### 👀 I'm a passionate Software Developer specialized in modern web and mobile applications.
+
+---
+
+### 💻 My Apps on Google Play
+[👉 Visit my Google Play Store](https://play.google.com/store/apps/dev?id=5253345249921512271)
+
+### 🍏 My Apps on iOS
+[👉 Visit my Apple App Store](https://apps.apple.com/us/developer/axel-kermezian/id1775057597)
+
+---
+
+### 📫 Contact Me
+📧 [axel.code.pro@outlook.com](mailto:axel.code.pro@outlook.com)

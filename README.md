@@ -10,6 +10,9 @@
 ### 🍏 My Apps on iOS
 [👉 Visit my Apple App Store](https://apps.apple.com/us/developer/axel-kermezian/id1775057597)
 
+### 💻 My Games on Itch
+[👉 Visit my Itch Store](https://axel-code.itch.io/)
+
 ---
 
 ### 📫 Contact Me
